@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bimal Neupane
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working as a FullStack Developer
 - 📫 Mail@ hbkbimal07@gmail.com
 
 <!---
